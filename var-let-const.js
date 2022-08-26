@@ -1,8 +1,8 @@
 //-------var----------//
 
 var name = 'farvez';
-name = 'Abdullah' //reassign kora jai
-var name = 'Sabbir' //redeclar kora jai
+name = 'Abdullah' //re assign kora jai
+var name = 'Sabbir' //re define kora jai
 console.log(name);
 
 //-------var----------//
@@ -10,8 +10,8 @@ console.log(name);
 //-------let----------//
 
 let name = 'farvez';
-name = 'Abdullah' //reassign kora jai
-let name = 'Sabbir' //redeclar kora jai na
+name = 'Abdullah' //re assign kora jai
+let name = 'Sabbir' //re define kora jai na
 console.log(name);
 
 //-------var----------//
@@ -19,8 +19,8 @@ console.log(name);
 //-------let----------//
 
 const name = 'farvez';
-name = 'Abdullah' //reassign kora jai na
-let name = 'Sabbir' //redeclar kora jai na
+name = 'Abdullah' //re assign kora jai na
+let name = 'Sabbir' //re define kora jai na
 console.log(name);
 
 //-------var----------//
